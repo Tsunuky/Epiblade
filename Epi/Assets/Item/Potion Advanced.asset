@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4578a0e2b3b16414ca00a5c80e2215df, type: 3}
+  m_Name: Potion Advanced
+  m_EditorClassIdentifier: 
+  name: Potion Advanced
+  icon: {fileID: 21300000, guid: 236153fb62fa7984bbccd3292d623be3, type: 3}
+  price: 1200
+  isDefaultItem: 0
+  healNb: 80
+  type: 0

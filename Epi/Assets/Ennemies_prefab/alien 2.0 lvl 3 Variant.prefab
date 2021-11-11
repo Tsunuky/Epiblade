@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4334215644208176066
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1656839244489795999, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af1189a1643404d4eaa2045b512aab51, type: 2}
+    - target: {fileID: 4525042794764738597, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8d57f29513f2ead4a9ea704e06229bf6, type: 2}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 75.25755
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 831.69244
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.32259625
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.94653666
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 322.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104957109844273934, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5589991732875833780, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_Name
+      value: alien 2.0 lvl 3 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8458204074534877796, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: Prefab2
+      value: 
+      objectReference: {fileID: 5882899881143901082, guid: f88fb02628f2e464ba35fc78adc568ed, type: 3}
+    - target: {fileID: 8458204074534877796, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: maxHealth
+      value: 170
+      objectReference: {fileID: 0}
+    - target: {fileID: 8458204074534877796, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: level.baseValue
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8458204074534877796, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: damage.baseValue
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8458204074534877796, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: armor.baseValue
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8635980752860605557, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8635980752860605557, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c64a025c3b910a348b0ef58e21f3f358, type: 3}
